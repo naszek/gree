@@ -1,15 +1,15 @@
 {
     "bridge": {
         "name": "Homebridge",
-        "username": "CC:22:3D:E3:CE:30",
+        "username": "E6:3A:6E:B3:40:33",
         "port": 51826,
         "pin": "123-45-568"
     },
     "accessories": [
         {
-            "accessory": "GreeAC",
-            "host": "192.168.1.X",
-            "name": "Office AC"
+            "accessory": "Nappali",
+            "host": "192.168.0.106",
+            "name": "Nappali"
         },
         {
             "accessory": "GreeAC",
